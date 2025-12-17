@@ -1,4 +1,4 @@
-### Olá! Eu sou o [Seu Nome] 👋
+### Olá! Eu sou o Luiz Roberto Bastos 👋
 
 Sou estudante de **Engenharia de Materiais na UFRJ** e apaixonado por tecnologia aplicada à indústria. Tenho experiência prática em laboratório de materiais e desenvolvimento de software para engenharia.
 
