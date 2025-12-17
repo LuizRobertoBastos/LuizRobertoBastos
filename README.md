@@ -15,7 +15,7 @@ Sou estudante de **Engenharia de Materiais na UFRJ** e apaixonado por tecnologia
 
 **[Nome do Projeto FTIR] (Clique aqui)**
 Desenvolvi um software completo em Python para automatizar a análise de espectros FTIR, utilizado em pesquisas com a Petrobras.
-*(Link para o repositório que você criou na PARTE 1)*
+*https://github.com/LuizRobertoBastos/FTIR-Analysis-Software*
 
 ---
 📫 **Contato:** https://www.linkedin.com/in/luiz-roberto-bastos-556358274/ | luizroberto.20231@poli.ufrj.br
