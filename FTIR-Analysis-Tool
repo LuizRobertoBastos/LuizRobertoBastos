@@ -23,12 +23,6 @@ Developed during my experience at the **Composite Materials and Adhesives Labora
 * **Visualization:** Interactive plotting for comparative analysis of multiple samples.
 * **Report Generation:** Automatic export of processed data and graphs.
 
-## 📸 Screenshots
-
-![Interface Preview](path/to/your/image.png)
-
-*(Above: Example of the comparative plotting interface generating analysis for non-metallic samples)*
-
 ## 🛠️ Technologies & Tools
 
 * **Language:** Python 3.x
